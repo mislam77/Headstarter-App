@@ -57,11 +57,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="/img/headstarter-login.png?raw=true" width="750px">
-<img src="/img/headstarter-home.png?raw=true" width="750px">
-<img src="/img/headstarter-calendar.png?raw=true" width="750px">
-<img src="/img/headstarter-meeting.png?raw=true" width="750px">
-<img src="/img/headstarter-camera.png?raw=true" width="750px">
+<img src="/img/headstarter-login.PNG?raw=true" width="500px">
+<img src="/img/headstarter-home.PNG?raw=true" width="500px">
+<img src="/img/headstarter-calendar.PNG?raw=true" width="500px">
+<img src="/img/headstarter-meeting.PNG?raw=true" width="500px">
+<img src="/img/headstarter-camera.PNG?raw=true" width="500px">
 
 The Headstarter App is a full-stack web application built with JavaScript, React, Firebase, and Agora RTC to enhance project team collaboration and communication. Developed by a team of four, the app focuses on providing a user-friendly, reliable, and secure platform for teams to work together more efficiently.
 
@@ -78,9 +78,9 @@ With its intuitive interface and powerful features, the Headstarter App helps te
 
 ### Built With
 
-* [![JavaScript][javascript.com]][JavaScript-url]
+* [![JavaScript][JavaScript]][JavaScript-url]
 * [![React][React.js]][React-url]
-* [![Firebase][firebase.google.com]][Firebase-url]
+* [![Firebase][Firebase]][Firebase-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
