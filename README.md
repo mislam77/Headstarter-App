@@ -75,7 +75,7 @@
   <br /><br />
   <img src="/img/headstarter-camera.PNG?raw=true" width="500px" alt="Video and Voice Call Page (Camera is Black for privacy reasons)">
   <br />
-  <b>Video and Voice Call Page (Camera is Black for privacy reasons)</b>
+  <b>Video and Voice Call Page (Camera is off for privacy reasons)</b>
   <br /><br />
 </div>
 
