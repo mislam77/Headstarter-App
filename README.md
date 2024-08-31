@@ -56,12 +56,23 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<img align="center" src="/img/headstarter-login.PNG?raw=true" width="500px" alt="Login Page">
-<img align="center" src="/img/headstarter-home.PNG?raw=true" width="500px" alt="Home Page">
-<img align="center" src="/img/headstarter-calendar.PNG?raw=true" width="500px" alt="Calendar Page">
-<img align="center" src="/img/headstarter-meeting.PNG?raw=true" width="500px" alt="Meeting Page">
-<img align="center" src="/img/headstarter-camera.PNG?raw=true" width="500px" alt="Video and Voice Call Page (Camera is Black for privacy reasons)">
+<div align="center">
+  <img src="/img/headstarter-login.PNG?raw=true" width="500px" alt="Login Page">
+  <b>Login Page</b>
+  <br />
+  <img src="/img/headstarter-home.PNG?raw=true" width="500px" alt="Home Page">
+  <b>Home Page</b>
+  <br />
+  <img src="/img/headstarter-calendar.PNG?raw=true" width="500px" alt="Calendar Page">
+  <b>Calendar Page</b>
+  <br />
+  <img src="/img/headstarter-meeting.PNG?raw=true" width="500px" alt="Meeting Page">
+  <b>Meeting Page</b>
+  <br />
+  <img src="/img/headstarter-camera.PNG?raw=true" width="500px" alt="Video and Voice Call Page (Camera is Black for privacy reasons)">
+  <b>Video and Voice Call Page (Camera is Black for privacy reasons)</b>
+  <br />
+</div>
 
 The Headstarter App is a full-stack web application built with JavaScript, React, Firebase, and Agora RTC to enhance project team collaboration and communication. Developed by a team of four, the app focuses on providing a user-friendly, reliable, and secure platform for teams to work together more efficiently.
 
