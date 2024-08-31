@@ -79,14 +79,16 @@
   <br /><br />
 </div>
 
-The Headstarter App is a full-stack web application built with JavaScript, React, Firebase, and Agora RTC to enhance project team collaboration and communication. Developed by a team of four, the app focuses on providing a user-friendly, reliable, and secure platform for teams to work together more efficiently.
+<p>Headstarter is a full-stack web application built with <strong>JavaScript</strong>, <strong>React</strong>, <strong>Firebase</strong>, and <strong>Agora RTC</strong> to enhance project team collaboration and communication. Developed by a team of four, the app focuses on providing a user-friendly, reliable, and secure platform for teams to work together more efficiently.</p>
 
-✨ Key Features<br />
-🔒 Secure User Authentication: Integrated robust user authentication using the Google Auth API to ensure secure access and data protection.<br />
-📅 Real-Time Calendar & Scheduler: Designed and implemented a real-time calendar and scheduling feature for efficient planning and task management.<br />
-💬 Voice and Video Chat: Seamlessly integrated voice and video chat functionalities using Agora RTC to facilitate effective and instant communication among team members.<br />
+  <h2>✨ Key Features</h2>
+    <ul>
+        <li><strong>🔒 Secure User Authentication:</strong> Integrated robust user authentication using the Google Auth API to ensure secure access and data protection.</li>
+        <li><strong>📅 Real-Time Calendar & Scheduler:</strong> Designed and implemented a real-time calendar and scheduling feature for efficient planning and task management.</li>
+        <li><strong>💬 Voice and Video Chat:</strong> Seamlessly integrated voice and video chat functionalities using Agora RTC to facilitate effective and instant communication among team members.</li>
+    </ul>
 
-With its intuitive interface and powerful features, the Headstarter App helps teams coordinate, communicate, and collaborate more effectively, all in one place.
+<p>With its intuitive interface and powerful features, Headstarter helps teams coordinate, communicate, and collaborate more effectively, all in one place.</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
