@@ -79,9 +79,9 @@
   <br /><br />
 </div>
 
-<p>Headstarter is a full-stack web application built with <strong>JavaScript</strong>, <strong>React</strong>, <strong>Firebase</strong>, and <strong>Agora RTC</strong> to enhance project team collaboration and communication. Developed by a team of four, the app focuses on providing a user-friendly, reliable, and secure platform for teams to work together more efficiently.</p>
+<p>Headstarter is a full-stack web application built with <strong>JavaScript</strong>, <strong>React</strong>, <strong>Firebase</strong>, and <strong>Agora RTC</strong> to enhance project team collaboration and communication. Developed by a team of four, the app focuses on providing a user-friendly, reliable, and secure platform for teams to work together more efficiently.</p><br />
 
-  <strong>Key Features</strong><br />
+  <strong>✨ Key Features</strong><br />
     <ul>
         <li><strong>🔒 Secure User Authentication:</strong> Integrated robust user authentication using the Google Auth API to ensure secure access and data protection.</li>
         <li><strong>📅 Real-Time Calendar & Scheduler:</strong> Designed and implemented a real-time calendar and scheduling feature for efficient planning and task management.</li>
